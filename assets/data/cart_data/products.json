@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "name": "Bib and Bowl Set",
+    "img": "assets/png/product/BibandBowlSet.png",
+    "category": 2,
+    "rate": 4.8,
+    "order": 2300,
+    "price": 20000,
+    "discount": 5,
+    "shopId": 1,
+    "status": "Best Seller",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad."
+  },
+  {
+    "id": 2,
+    "name": "Art Classes for Kids",
+    "img": "assets/png/product/ArtClassesforKids.png",
+    "category": 1,
+    "rate": 4.5,
+    "order": 1900,
+    "price": 35000,
+    "discount": 0,
+    "shopId": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad."
+  },
+  {
+    "id": 3,
+    "name": "Weekend Yoga Classes",
+    "img": "assets/png/product/WeekendYogaClasses.png",
+    "category": 1,
+    "rate": 4.8,
+    "order": 854,
+    "price": 65000,
+    "discount": 0,
+    "shopId": 1,
+    "status": "NEW",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad."
+  },
+  {
+    "id": 4,
+    "name": "Fruit Blender",
+    "img": "assets/png/product/FruitBlender.png",
+    "category": 2,
+    "rate": 4.2,
+    "order": 2800,
+    "price": 15000,
+    "discount": 0,
+    "shopId": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad."
+  },
+  {
+    "id": 5,
+    "name": "Pink Dohar",
+    "img": "assets/png/product/PinkDohar.png",
+    "category": 2,
+    "rate": 4.5,
+    "order": 3000,
+    "price": 20000,
+    "discount": 0,
+    "shopId": 1,
+    "status": "Best",
+    "isPopular": true,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad."
+  },
+  {
+    "id": 6,
+    "name": "Los Angeles Play Mat (Reversible)",
+    "img": "assets/png/product/LosAngelesPlayMat.png",
+    "category": 2,
+    "rate": 4.5,
+    "order": 2800,
+    "price": 165200,
+    "discount": 0,
+    "shopId": 1,
+    "description": "Your baby is strolling down sunny beaches, into sunset boulevard and hanging out in Hollywood all while you sip your coffee in the comfort , Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad."
+  }
+]

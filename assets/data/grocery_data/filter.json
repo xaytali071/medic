@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Sort by",
+    "data": [
+      "Recommended",
+      "Popularity",
+      "Rating",
+      "Distance"
+    ]
+  },
+  {
+    "title": "Location",
+    "data": [
+      "Nearby",
+      "Anywhere in Lagos",
+      "Anywhere in Nigeria"
+    ]
+  },
+  {
+    "title": "Price",
+    "data": [
+      "Low to High",
+      "High to Low",
+      "Recommended"
+    ]
+  },
+  {
+    "title": "Mode",
+    "data": [
+      "Delivery",
+      "Self Pickup",
+      "Other"
+    ]
+  }, {
+    "title": "Payment Options",
+    "data": [
+      "ezSecure",
+      "Pay to Vendor",
+      "Other"
+    ]
+  }
+]

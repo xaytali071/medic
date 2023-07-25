@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "email": "george.bluth@reqres.in",
+    "first_name": "George",
+    "last_name": "Bluth",
+    "avatar": "https://reqres.in/img/faces/1-image.jpg",
+    "phone": "+1-300-555-0135",
+    "comment": "The items are always fantastic and no matter what I order I am always delighted! 💯💯",
+    "likes_count": "938",
+    "comment_time": "6 days ago"
+  },
+  {
+    "id": 2,
+    "email": "janet.weaver@reqres.in",
+    "first_name": "Janet",
+    "last_name": "Weaver",
+    "phone": "+1-300-555-0135",
+    "avatar": "https://reqres.in/img/faces/2-image.jpg",
+    "comment": "Excellent items. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 😍😍",
+    "likes_count": "863",
+    "comment_time": "2 weeks ago"
+  },
+  {
+    "id": 3,
+    "email": "emma.wong@reqres.in",
+    "first_name": "Emma",
+    "last_name": "Wong",
+    "phone": "+1-300-555-0135",
+    "avatar": "https://reqres.in/img/faces/3-image.jpg",
+    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 👌👌",
+    "likes_count": "629",
+    "comment_time": "2 days ago"
+  },
+  {
+    "id": 4,
+    "email": "eve.holt@reqres.in",
+    "first_name": "Eve",
+    "last_name": "Holt",
+    "phone": "+1-300-555-0135",
+    "avatar": "https://reqres.in/img/faces/4-image.jpg",
+    "comment": "Excellent items. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 😍😍",
+    "likes_count": "515",
+    "comment_time": "5 days ago"
+  },
+  {
+    "id": 5,
+    "email": "charles.morris@reqres.in",
+    "first_name": "Charles",
+    "last_name": "Morris",
+    "avatar": "https://reqres.in/img/faces/5-image.jpg",
+    "comment": "The items are always fantastic and no matter what I order I am always delighted! 💯💯",
+    "likes_count": "943",
+    "comment_time": "3 days ago"
+  },
+  {
+    "id": 6,
+    "email": "tracey.ramos@reqres.in",
+    "first_name": "Tracey",
+    "last_name": "Ramos",
+    "phone": "+1-300-555-0135",
+    "avatar": "https://reqres.in/img/faces/6-image.jpg",
+    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 👌👌",
+    "likes_count": "231",
+    "comment_time": "3 days ago"
+  }, {
+    "id": 7,
+    "email": "tracey.ramos@reqres.in",
+    "first_name": " ELISE",
+    "last_name": "BAUER",
+    "phone": "+1-300-555-0135",
+    "avatar": "https://www.simplyrecipes.com/thmb/KN95Fj8CYtatUiS-XrT76y4XEjg=/40x40/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SRHeadshots-EliseBauer-5c36c598a88d4ba3bff66260a792ea47.jpg",
+    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 👌👌",
+    "likes_count": "231",
+    "comment_time": "3 days ago"
+  }
+]

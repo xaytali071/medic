@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "title": "Restaurants",
+    "icon": "assets/svg/g_travel/1.svg"
+  },
+  {
+    "id": 1,
+    "title": "Hotel",
+    "icon": "assets/svg/g_travel/bed.svg"
+  },
+  {
+    "id": 1,
+    "title": "Gas",
+    "icon": "assets/svg/g_travel/2.svg"
+  },
+  {
+    "id": 1,
+    "title": "Coffee",
+    "icon": "assets/svg/g_travel/coffee.svg"
+  },
+  {
+    "id": 1,
+    "title": "Shop",
+    "icon": "assets/svg/g_travel/shop.svg"
+  },
+  {
+    "id": 1,
+    "title": "Subway",
+    "icon": "assets/svg/g_travel/subway.svg"
+  },
+  {
+    "id": 1,
+    "title": "Security",
+    "icon": "assets/svg/g_travel/security.svg"
+  },
+  {
+    "id": 1,
+    "title": "Lunch",
+    "icon": "assets/svg/g_travel/concierge-bell.svg"
+  },
+  {
+    "id": 1,
+    "title": "Pats",
+    "icon": "assets/svg/g_travel/paw.svg"
+  }
+
+
+]

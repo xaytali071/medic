@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Quick help",
+    "img": "assets/png/story/user-robot.svg"
+  },
+  {
+    "title": "Hospital",
+    "img": "assets/png/story/car-side.svg"
+  },
+  {
+    "title": "Ambulance",
+    "img": "assets/png/story/hospital.svg"
+  },
+  {
+    "title": "Doctor",
+    "img": "assets/png/story/car-side.svg"
+  },
+  {
+    "title": "Decease",
+    "img": "assets/png/story/user-md.svg"
+  },
+  {
+    "title": "Ambulance",
+    "img": "assets/png/story/hospital.svg"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "shop_name": "Beltline",
+    "img": "assets/png/shop/velo3.png",
+    "rate": 5.0,
+    "order": 1500,
+    "is_ads": false,
+    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad. Read more...",
+    "location": {
+      "title": "Konya, Aksinne, 42040 Meram/Konya, Türkiye",
+      "lat": 37.8620076,
+      "lon": 4726101.15
+    },
+    "open_days": [
+      {
+        "day": "Monday - Friday",
+        "hours": "9:00 - 21.00"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11:00 - 19.00"
+      } ,
+      {
+        "day": " Sunday",
+        "hours": "close"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "shop_name": "Velo Shop",
+    "img": "assets/png/shop/velo1.png",
+    "rate": 4.5,
+    "order": 1200,
+    "is_ads": true,
+    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad. Read more...",
+    "location": {
+      "title": "Payson Unified District, AZ, USA",
+      "lat": 34.0658366,
+      "lon": 111.3858239
+    },
+    "open_days": [
+      {
+        "day": "Monday - Friday",
+        "hours": "10:00 - 22.00"
+      },
+      {
+        "day": "Saturday - Sunday",
+        "hours": "12:00 - 20.00"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "shop_name": "Bike Shop",
+    "img": "assets/png/shop/velo2.png",
+    "rate": 4.9,
+    "order": 1200,
+    "is_ads": false,
+    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad. Read more...",
+    "location": {
+      "title": "Konya, Aksinne, 42040 Meram/Konya, Türkiye",
+      "lat": 37.8620076,
+      "lon": 4726101.15
+    },
+    "open_days": [
+      {
+        "day": "Monday - Friday",
+        "hours": "9:00 - 21.00"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11:00 - 19.00"
+      } ,
+      {
+        "day": " Sunday",
+        "hours": "close"
+      }
+    ]
+  }
+
+
+
+]

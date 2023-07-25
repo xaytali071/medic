@@ -1,0 +1,25 @@
+[
+    {
+        "shop_id" : 1,
+        "text" : "Crafts are a great way for kids to express their creativity, develop their resourcefulness, time management and fine motor skills.",
+        "likes_count" : 2200,
+        "id" : 0
+    },
+    {
+        "shop_id" : 2,
+        "text" : "We are offering free  yoga classes tuesdays from 8AM -  9AM.",
+        "likes_count" : 300,
+        "img" : "assets/png/product/WeekendYogaClasses.png",
+        "time" : "",
+        "id": 1
+    },
+
+    {
+        "shop_id" : 2,
+        "text" : "Crafts are a great way for kids to express their creativity, develop their resourcefulness, time management and fine motor skills.",
+        "likes_count" : 1200,
+        "img" : "assets/png/product/FruitBlender.png",
+        "time" : "",
+        "id": 2
+    }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "PEUGEOT - LR01",
+    "img": "assets/png/bike_product/1.png",
+    "category": 1,
+    "rate": 4.8,
+    "order": 2300,
+    "price": 20000,
+    "discount": 5,
+    "shopId": 1,
+    "status": "Best Seller",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad."
+  },
+  {
+    "id": 2,
+    "name": "SMITH - Trade",
+    "img": "assets/png/bike_product/2.png",
+    "category": 3,
+    "rate": 4.5,
+    "order": 1900,
+    "price": 35000,
+    "discount": 0,
+    "shopId": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad."
+  },
+  {
+    "id": 3,
+    "name": "PILOT - Chromoly",
+    "img": "assets/png/bike_product/3.png",
+    "category": 1,
+    "rate": 4.8,
+    "order": 854,
+    "price": 65000,
+    "discount": 0,
+    "shopId": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad."
+  },
+  {
+    "id": 4,
+    "name": "PILOT SP87",
+    "img": "assets/png/bike_product/4.png",
+    "category": 2,
+    "rate": 4.2,
+    "order": 2800,
+    "price": 15000,
+    "discount": 0,
+    "shopId": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad."
+  },
+  {
+    "id": 5,
+    "name": "PILOT - Trade ",
+    "img": "assets/png/bike_product/5.png",
+    "category": 2,
+    "rate": 4.5,
+    "order": 3000,
+    "price": 20000,
+    "discount": 0,
+    "shopId": 3,
+    "status": "Best",
+    "isPopular": true,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad."
+  },
+  {
+    "id": 6,
+    "name": "PEUGEOT - LM05",
+    "img": "assets/png/bike_product/6.png",
+    "category": 2,
+    "rate": 4.5,
+    "order": 2800,
+    "price": 165200,
+    "discount": 0,
+    "shopId": 1,
+    "description": "Your baby is strolling down sunny beaches, into sunset boulevard and hanging out in Hollywood all while you sip your coffee in the comfort , Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad."
+  },
+  {
+    "id": 7,
+    "name": "PEUGEOT - LT07",
+    "img": "assets/png/bike_product/7.png",
+    "category": 2,
+    "rate": 4.5,
+    "order": 2800,
+    "price": 165200,
+    "discount": 0,
+    "shopId": 2,
+    "status": "NEW",
+
+    "description": "Your baby is strolling down sunny beaches, into sunset boulevard and hanging out in Hollywood all while you sip your coffee in the comfort , Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad."
+  },
+  {
+    "id": 8,
+    "name": "PILOT - LS02",
+    "img": "assets/png/bike_product/8.png",
+    "category": 2,
+    "rate": 4.5,
+    "order": 2800,
+    "price": 165200,
+    "discount": 0,
+    "shopId": 3,
+    "description": "Your baby is strolling down sunny beaches, into sunset boulevard and hanging out in Hollywood all while you sip your coffee in the comfort , Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad."
+  },
+  {
+    "id": 9,
+    "name": "PILOT - TM09",
+    "img": "assets/png/bike_product/9.png",
+    "category": 2,
+    "rate": 4.5,
+    "order": 2800,
+    "price": 165200,
+    "discount": 0,
+    "shopId": 3,
+    "description": "Your baby is strolling down sunny beaches, into sunset boulevard and hanging out in Hollywood all while you sip your coffee in the comfort , Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad."
+  },
+  {
+    "id": 10,
+    "name": "PEUGEOT - Chromoly",
+    "img": "assets/png/bike_product/10.png",
+    "category": 2,
+    "rate": 4.5,
+    "order": 2800,
+    "price": 165200,
+    "discount": 0,
+    "shopId": 3,
+    "status": "Best",
+    "description": "Your baby is strolling down sunny beaches, into sunset boulevard and hanging out in Hollywood all while you sip your coffee in the comfort , Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad."
+  }
+]

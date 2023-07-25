@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Cardiologists",
+    "icon": "assets/svg/g_medical/cardiologistis.svg"
+  },
+  {
+    "id": 2,
+    "title": "Gastrology",
+    "icon": "assets/svg/g_medical/gastrology.svg"
+  },
+  {
+    "id": 3,
+    "title": "Dentist",
+    "icon": "assets/svg/g_medical/dentist.svg"
+  },
+  {
+    "id": 4,
+    "title": "Audiology",
+    "icon": "assets/svg/g_medical/audiology.svg"
+  },
+  {
+    "id": 5,
+    "title": "Urologists",
+    "icon": "assets/svg/g_medical/urologists.svg"
+  }
+]

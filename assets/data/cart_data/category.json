@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "Mum",
+    "icon": "assets/png/category/mum.png"
+  },
+  {
+    "id": 2,
+    "title": "Baby",
+    "icon": "assets/png/category/baby.png"
+  },
+  {
+    "id": 3,
+    "title": "Electron",
+    "icon": "assets/png/category/electron.png"
+  },
+  {
+    "id": 4,
+    "title": "Homeware",
+    "icon": "assets/png/category/homeware.png"
+  },
+  {
+    "id": 5,
+    "title": "Health",
+    "icon": "assets/png/category/health.png"
+  },
+  {
+    "id": 6,
+    "title": "Beauty",
+    "icon": "assets/png/category/beauty.png"
+  },
+  {
+    "id": 7,
+    "title": "Fashion",
+    "icon": "assets/png/category/fashion.png"
+  },
+  {
+    "id": 8,
+    "title": "Fitness",
+    "icon": "assets/png/category/fitness.png"
+  },
+  {
+    "id": 9,
+    "title": "Gaming",
+    "icon": "assets/png/category/gaming.png"
+  },
+  {
+    "id": 10,
+    "title": "Sporting",
+    "icon": "assets/png/category/sporting.png"
+  },
+  {
+    "id": 0,
+    "title": "Other",
+    "icon": "assets/png/category/other.png"
+  }
+]

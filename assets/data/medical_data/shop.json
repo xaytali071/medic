@@ -1,0 +1,106 @@
+[
+  {
+    "id": 4,
+    "name": "Oakville Trafalgar Memorial Hospital",
+    "img": "https://i.pinimg.com/originals/63/6e/17/636e17db16bb81b63b8e6cc30546ebf9.jpg",
+    "rate": 5.0,
+    "order": 1500,
+    "is_ads": false,
+    "location": {
+      "title": "Konya, Aksinne, 42040 Meram/Konya, Türkiye",
+      "lat": 37.8620076,
+      "lon": 4726101.15
+    },
+    "open_days": [
+      {
+        "day": "Monday - Friday",
+        "hours": "9:00 - 21.00"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11:00 - 19.00"
+      },
+      {
+        "day": " Sunday",
+        "hours": "close"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Okayama Red Cross Hospital",
+    "img": "https://avatars.mds.yandex.net/i?id=c806d937a785df0b50ff4382a1fe5cd5ae2c8280-9220416-images-thumbs&n=13",
+    "rate": 5.0,
+    "order": 1500,
+    "is_ads": false,
+    "location": {
+      "title": "Konya, Aksinne, 42040 Meram/Konya, Türkiye",
+      "lat": 37.8620076,
+      "lon": 4726101.15
+    },
+    "open_days": [
+      {
+        "day": "Monday - Friday",
+        "hours": "9:00 - 21.00"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11:00 - 19.00"
+      },
+      {
+        "day": " Sunday",
+        "hours": "close"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Wapda Town Hospital Lahore",
+    "img": "https://avatars.mds.yandex.net/i?id=803b5fcc12fd9687fee21622d0c1164bbfb06a46-5257529-images-thumbs&n=13",
+    "rate": 4.5,
+    "order": 1200,
+    "is_ads": true,
+    "location": {
+      "title": "Payson Unified District, AZ, USA",
+      "lat": 34.0658366,
+      "lon": 111.3858239
+    },
+    "open_days": [
+      {
+        "day": "Monday - Friday",
+        "hours": "10:00 - 22.00"
+      },
+      {
+        "day": "Saturday - Sunday",
+        "hours": "12:00 - 20.00"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Most Wired' Hospital",
+    "img": "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_853,w_1280,x_0,y_89/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1200/SMH_TOWER_TRA_ybt3d9.jpg",
+    "rate": 4.9,
+    "order": 1200,
+    "is_ads": false,
+    "location": {
+      "title": "Konya, Aksinne, 42040 Meram/Konya, Türkiye",
+      "lat": 37.8620076,
+      "lon": 4726101.15
+    },
+    "open_days": [
+      {
+        "day": "Monday - Friday",
+        "hours": "9:00 - 21.00"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11:00 - 19.00"
+      },
+      {
+        "day": " Sunday",
+        "hours": "close"
+      }
+    ]
+  }
+]

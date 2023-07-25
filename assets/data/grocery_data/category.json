@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Fruits",
+    "icon": "assets/png/g_grocery/5.png"
+  },
+  {
+    "id": 2,
+    "title": "Vegie",
+    "icon": "assets/png/g_grocery/18.png"
+  },
+  {
+    "id": 3,
+    "title": "Bread",
+    "icon": "assets/png/g_grocery/4.png"
+  },
+  {
+    "id": 4,
+    "title": "Meat",
+    "icon": "assets/png/g_grocery/2.png"
+  },
+  {
+    "id": 5,
+    "title": "Cheese",
+    "icon": "assets/png/g_grocery/3.png"
+  },
+  {
+    "id": 6,
+    "title": "Drinks",
+    "icon": "assets/png/g_grocery/1.png"
+  }
+]

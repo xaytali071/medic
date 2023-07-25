@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Pizza",
+    "icon": "assets/png/category/pizza.png"
+  },
+  {
+    "id": 2,
+    "title": "Soup",
+    "icon": "assets/png/category/soup.png"
+  },
+  {
+    "id": 3,
+    "title": "Salad",
+    "icon": "assets/png/category/salad.png"
+  },
+  {
+    "id": 4,
+    "title": "Sushi",
+    "icon": "assets/png/category/sushi.png"
+  },
+  {
+    "id": 5,
+    "title": "Fast food",
+    "icon": "assets/png/category/fast_food.png"
+  },
+  {
+    "id": 6,
+    "title": "Noodles",
+    "icon": "assets/png/category/noodles.png"
+  },
+  {
+    "id": 7,
+    "title": "Cake",
+    "icon": "assets/png/category/cake.png"
+  },
+  {
+    "id": 8,
+    "title": "Meet",
+    "icon": "assets/png/category/meet.png"
+  },
+  {
+    "id": 9,
+    "title": "Dessert",
+    "icon": "assets/png/category/dessert.png"
+  },
+  {
+    "id": 10,
+    "title": "Drinks",
+    "icon": "assets/png/category/drinks.png"
+  },
+  {
+    "id": 11,
+    "title": "Bread",
+    "icon": "assets/png/category/bread.png"
+  },
+  {
+    "id": 12,
+    "title": "Plov",
+    "icon": "assets/png/category/plov.png"
+  }
+]

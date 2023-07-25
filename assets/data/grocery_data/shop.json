@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "shop_name": "Korzinka",
+    "img": "assets/png/g_grocery/korzinka.png",
+    "rate": 4.5,
+    "order": 1200,
+    "is_ads": true,
+    "overview": "25 years of experience and faith made us market leaders",
+    "location": {
+      "title": "Tashkent,Uzbekistan",
+      "lat": 34.0658366,
+      "lon": 111.3858239
+    },
+    "open_days": [
+      {
+        "day": "Monday - Friday",
+        "hours": "10:00 - 22.00"
+      },
+      {
+        "day": "Saturday - Sunday",
+        "hours": "12:00 - 20.00"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "shop_name": "Makro",
+    "img": "assets/png/g_grocery/Makro.png",
+    "rate": 4.9,
+    "order": 1200,
+    "is_ads": false,
+    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad. Read more...",
+    "location": {
+      "title": "Konya, Aksinne, 42040 Meram/Konya, Türkiye",
+      "lat": 37.8620076,
+      "lon": 4726101.15
+    },
+    "open_days": [
+      {
+        "day": "Monday - Friday",
+        "hours": "9:00 - 21.00"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11:00 - 19.00"
+      } ,
+      {
+        "day": " Sunday",
+        "hours": "close"
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "shop_name": "Carrefour",
+    "img": "assets/png/g_grocery/care.jpeg",
+    "rate": 5.0,
+    "order": 1500,
+    "is_ads": false,
+    "overview": "Carrefour has a number of exclusive brands under its flagship brand, that have acquired a high degree of trust and credibility among our customers. The creation of Carrefour brands is to build a suite of products that exceed our customers’ expectations in terms of quality and price. Carrefour offers complete traceability on most of its products which as the label reads are available “only at Carrefour”.",
+    "location": {
+      "title": "Konya, Aksinne, 42040 Meram/Konya, Türkiye",
+      "lat": 37.8620076,
+      "lon": 4726101.15
+    },
+    "open_days": [
+      {
+        "day": "Monday - Friday",
+        "hours": "9:00 - 21.00"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11:00 - 19.00"
+      } ,
+      {
+        "day": " Sunday",
+        "hours": "close"
+      }
+    ]
+  }
+
+]
